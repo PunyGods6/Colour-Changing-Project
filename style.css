@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    padding-top: 50px;
+    text-decoration: underline;
+}
+
+#colourDisplay{
+    text-align: center;
+    font-size: 25px;
+}
+
+#randomColourDisplay{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 25px;
+}
+
+.colourChangingBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    padding-top: 25px;
+}
+
+.randomColourChangingBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    padding-top: 25px;
+}
+
+.resettingBtn {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
